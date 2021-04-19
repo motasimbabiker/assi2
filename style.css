@@ -1,0 +1,21 @@
+
+p{
+    color: green;
+}
+h1,h2 {
+    color: red;
+}
+
+li {
+    color: purple;
+}
+a[href*='beijing'] {
+    color: lightblue;
+  }
+  body {
+    background-color: linen;
+  }
+  div {
+    padding: 40px;
+    border: 1px solid #4CAF50;
+  }  
